@@ -19,3 +19,5 @@ fig,ax = plt.subplots()
 
 ax.add_patch(bigcirc)
 fig.savefig("fuck you cunt")
+
+print ('8=====D')
