@@ -17,5 +17,10 @@ potato
 
 Hello from github
 
+<<<<<<< HEAD
 Oh shit github is about to go spastic
 
+=======
+
+lelts how github will react when changes are made
+>>>>>>> f16eeaa (github reaction test')
